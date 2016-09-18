@@ -1,6 +1,6 @@
 # computational_physics_N2014301020152
 
-**Name:**谢崇思    **Studentnumber:**2014301020152     **Class:**物基二班
+**Name:**谢崇思   **University:**武汉大学    **Class:**物基二班     **Studentnumber:**2014301020152     
 
 **Homework list**
 
