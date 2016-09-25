@@ -6,6 +6,7 @@
 
  - [Exercise_01](https://github.com/Jones233/computational_physics_N2014301020152/blob/master/Exercise_01)
  - [Exercise_02(1)](https://github.com/Jones233/computational_physics_N2014301020152/blob/master/Exercise_02(1))
+ - [Exercise_02(2)](https://github.com/Jones233/computational_physics_N2014301020152/blob/master/Exercise_02(2))
  - [Exercise_03](https://github.com/Jones233/computational_physics_N2014301020152/blob/master/Exercise_03)
  - [Exercise_04](https://github.com/Jones233/computational_physics_N2014301020152/blob/master/Exercise_04)
  - [Exercise_05](https://github.com/Jones233/computational_physics_N2014301020152/blob/master/Exercise_05)
