@@ -1,0 +1,20 @@
+import time
+import os
+a='           1           \n           1 1         \n           1   1       \n           1  1        \n           1 1         \n           11          \n'
+b='           1           \n          11           \n         1 1           \n        1  1           \n       1   1           \n         1 1           \n'
+c='           1           \n           1           \n           1           \n           1           \n           1'   
+g='                       \n                       \n'
+d='       1               \n        1              \n      1  1             \n          1            \n     1111111111111     \n'
+e='           11          \n           1 1  1      \n           1  1        \n           1   1       \n           1           \n           1           \n'
+f='           1           \n           1           \n           1           \n           1           '
+li=[a+b+c,g+d+e+f]
+h=0
+while h<20:
+    print(li[h%2])
+    time.sleep(1)
+    h=h+1
+    os.system('cls')
+
+
+            
+            
