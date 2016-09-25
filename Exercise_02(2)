@@ -14,6 +14,7 @@ while h<20:
     time.sleep(1)
     h=h+1
     os.system('cls')
+借鉴了郭明达同学的代码，十分感谢！
 
 
             
