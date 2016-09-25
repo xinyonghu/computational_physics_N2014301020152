@@ -6,4 +6,14 @@ for i in range(0,30):
     print (i*' ' +' ###  #   # ##### #  ## ##### #####    #   ')
     import os
     i = os.system('cls')
-
+如果让它平移速度减慢的话，
+for i in range(0,30):
+    print (i*' ' +' ###  #   # ##### ####  #     ##### #     #')
+    print (i*' ' +'#     #   #   #   #   # #     #      #   # ')
+    print (i*' ' +' ###  #####   #   ####  #     #####    #   ')
+    print (i*' ' +'    # #   #   #   # #   #     #        #   ')
+    print (i*' ' +' ###  #   # ##### #  ## ##### #####    #   ')
+    import time 
+    time.sleep(0.05)
+    import os
+    i = os.system('cls')
