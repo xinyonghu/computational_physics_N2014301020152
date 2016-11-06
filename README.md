@@ -10,7 +10,7 @@
  - [Exercise_03 1.5](https://github.com/Jones233/computational_physics_N2014301020152/blob/master/Exercise_03)
  - [Exercise_04 2.6](https://www.zybuluo.com/Jones233/note/534096)
  - [Exercise_05 2.10](https://www.zybuluo.com/Jones233/note/542375)
- - [Exercise_06 3.12](https://github.com/Jones233/computational_physics_N2014301020152/blob/master/Exercise_06)         
+ - [Exercise_06 3.12](https://www.zybuluo.com/Jones233/note/558054)         
  - [Exercise_07](https://github.com/Jones233/computational_physics_N2014301020152/blob/master/Exercise_07)
  - [Exercise_08](https://github.com/Jones233/computational_physics_N2014301020152/blob/master/Exercise_08)
 
